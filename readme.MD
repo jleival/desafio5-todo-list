@@ -34,6 +34,8 @@ El proyecto está contenido en un único archivo modular para facilitar su ejecu
 ```text
 📁 todo-list/
  ┗ 📜 index.html   # Contiene la estructura HTML, los estilos CSS y la lógica en JavaScript
+
+---
  
 
 ## ⚙️ ¿Cómo ejecutar el proyecto?
@@ -44,6 +46,8 @@ Clona este repositorio o descarga el archivo index.html en tu computadora.
 Abre el archivo index.html directamente en cualquier navegador web moderno (Google Chrome, Firefox, Microsoft Edge, etc.).
 
 ¡Listo! Ya puedes interactuar agregando, completando y eliminando tareas.
+
+---
 
 ## 👨‍💻 Autor
 Desarrollado por Jorge Leiva como parte del desafío de desarrollo frontend para Desafio-Latam.# desafio5-todo-list
