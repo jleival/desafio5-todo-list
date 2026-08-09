@@ -4,6 +4,11 @@ Aplicación web desarrollada con **HTML5**, **CSS3** y **JavaScript Vanilla** qu
 
 ---
 
+## 🚀 Despliegue del Proyecto
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Abrir%20Sitio-blue?style=flat-square&logo=github)](https://jleival.github.io/desafio5-todo-list/)
+
+---
+
 ## 🚀 Características Principales
 
 * **Visualización inicial:** Carga automática de un arreglo con 3 tareas predefinidas al iniciar la página.
