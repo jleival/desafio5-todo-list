@@ -1,0 +1,14 @@
+# macOS System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Apple Double Files
+._*
+
+# Local History for IDEs
+.history/

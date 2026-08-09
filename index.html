@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Todo List</title>
+    <link rel="stylesheet" href="./assets/css/style.css" />
+</head>
+
+<body>
+    <div class="container">
+        <h2>Todo List</h2>
+        <hr />
+
+        <!-- Input y botón para agregar tarea -->
+        <div class="form-group">
+            <label>Nueva tarea</label><br /><br />
+            <input type="text" id="nuevaTareaInput" placeholder="Ej. Comprar pan" />
+            <button id="btnAgregar">Agregar</button>
+        </div>
+
+        <div class="main-content">
+            <!-- Sección de Resumen y Contadores -->
+            <div class="resumen">
+                <p>Total: <span id="totalTareas">0</span></p>
+                <p>Realizadas: <span id="tareasRealizadas">0</span></p>
+            </div>
+
+            <!-- Sección de la Tabla de Tareas -->
+            <div class="lista-tareas">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Tarea</th>
+                            <th></th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody id="cuerpoTabla">
+                        <!-- Aquí se inyectarán las tareas con JavaScript -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script src="./assets/js/script.js"></script>
+</body>
+
+</html>
